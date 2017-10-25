@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calculator_key_size">70dp</dimen>
+    <dimen name="calculator_key_set_margin">10dp</dimen>
+    <dimen name="calculator_key_set_top_margin">10dp</dimen>
+    <dimen name="calculator_display_width">320dp</dimen>
+    <dimen name="calculator_display_height">60dp</dimen>
+    <dimen name="calculator_display_top_margin">11dp</dimen>
+    <dimen name="calculator_key_set_lateral_margin">9dp</dimen>
+    <dimen name="calculator_key_set_row_margin">12dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calculator_key_size">40dp</dimen>
+    <dimen name="calculator_key_set_margin">70dp</dimen>
+</resources>
